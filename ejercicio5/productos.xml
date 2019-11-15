@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+    <producto codigo="123">
+        <precio>12.50</precio>
+        <nombre>papas</nombre>
+    </producto>
+    <producto codigo="567">
+        <precio>14.50</precio>
+        <nombre>refresco</nombre>
+    </producto>
+</productos>
